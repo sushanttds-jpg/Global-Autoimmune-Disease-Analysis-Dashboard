@@ -49,7 +49,6 @@ disease_colors = {
 
 region_colors = ['#264653','#2a9d8f','#e9c46a','#f4a261','#e76f51','#8ecae6','#a8dadc']
 
-# ── FIGURE ────────────────────────────────────────────────
 fig = ply.figure(figsize=(20, 15))
 fig.patch.set_facecolor('#0d1117')
 
