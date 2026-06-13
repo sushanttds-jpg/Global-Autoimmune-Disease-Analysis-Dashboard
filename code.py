@@ -9,13 +9,13 @@ import matplotlib.pyplot as ply
 import matplotlib.patches as mpatches
 from matplotlib.gridspec import GridSpec
 
-# ── LOAD DATA ─────────────────────────────────────────────
+
 df = pd.read_csv('autoimmune_global.csv')
 
 print("Dataset loaded:")
 print(f"  {len(df)} records | {df['Disease'].nunique()} diseases | {df['Region'].nunique()} regions")
 
-# ── DERIVED METRICS ───────────────────────────────────────
+
 df['Saved_Thousands']    = (df['Estimated_Cases_Thousands'] *
                             df['Survival_Rate_Pct'] / 100).round(1)
 df['Lost_Thousands']     = (df['Estimated_Cases_Thousands'] *
