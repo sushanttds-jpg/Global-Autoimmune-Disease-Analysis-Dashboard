@@ -150,7 +150,7 @@ ax3.legend(facecolor='#161b22', labelcolor='#c9d1d9',
            edgecolor='#30363d', fontsize=8)
 ax3.grid(True, alpha=0.15, color='#30363d', axis='y')
 
-# Annotate the Africa bar — highest mortality
+
 africa_idx = regions.index('Africa')
 ax3.annotate('Highest\nmortality\n(35%)',
              xy=(africa_idx + w/2, lost[africa_idx]),
