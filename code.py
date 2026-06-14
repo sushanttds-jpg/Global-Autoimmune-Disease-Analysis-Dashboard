@@ -38,7 +38,6 @@ by_region = df.groupby('Region').agg(
 
 lupus_data = df[df['Disease'] == 'Lupus (SLE)'].copy()
 
-# ── COLORS ────────────────────────────────────────────────
 disease_colors = {
     'Lupus (SLE)':             '#e76f51',
     'Rheumatoid Arthritis':    '#2a9d8f',
