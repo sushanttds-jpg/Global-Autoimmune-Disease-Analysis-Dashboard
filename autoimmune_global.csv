@@ -1,0 +1,36 @@
+Disease,Region,Estimated_Cases_Thousands,Survival_Rate_Pct,Mortality_Rate_Pct,Avg_Diagnosis_Delay_Years,Female_Pct,Data_Year
+Lupus (SLE),North America,1500,92,8,4.0,90,2024
+Lupus (SLE),Europe,800,91,9,3.5,89,2024
+Lupus (SLE),East Asia,1200,88,12,5.0,91,2024
+Lupus (SLE),South Asia,500,78,22,6.5,88,2024
+Lupus (SLE),Latin America,600,83,17,5.5,90,2024
+Lupus (SLE),Africa,300,65,35,8.0,87,2024
+Lupus (SLE),Middle East,200,80,20,6.0,88,2024
+Rheumatoid Arthritis,North America,2800,85,15,2.0,75,2024
+Rheumatoid Arthritis,Europe,4200,87,13,1.5,74,2024
+Rheumatoid Arthritis,East Asia,3500,83,17,3.0,76,2024
+Rheumatoid Arthritis,South Asia,2100,71,29,5.0,73,2024
+Rheumatoid Arthritis,Latin America,1800,76,24,4.0,75,2024
+Rheumatoid Arthritis,Africa,1200,58,42,7.0,72,2024
+Rheumatoid Arthritis,Middle East,900,74,26,4.5,74,2024
+Multiple Sclerosis,North America,1000,95,5,2.5,73,2024
+Multiple Sclerosis,Europe,1200,94,6,2.0,72,2024
+Multiple Sclerosis,East Asia,130,90,10,3.0,71,2024
+Multiple Sclerosis,South Asia,100,75,25,6.0,68,2024
+Multiple Sclerosis,Latin America,250,85,15,4.0,72,2024
+Multiple Sclerosis,Africa,50,62,38,8.5,65,2024
+Multiple Sclerosis,Middle East,100,80,20,5.0,68,2024
+Type 1 Diabetes,North America,1700,93,7,0.5,48,2024
+Type 1 Diabetes,Europe,2200,94,6,0.4,47,2024
+Type 1 Diabetes,East Asia,800,88,12,1.0,46,2024
+Type 1 Diabetes,South Asia,1100,72,28,2.0,45,2024
+Type 1 Diabetes,Latin America,900,80,20,1.5,47,2024
+Type 1 Diabetes,Africa,600,55,45,4.0,46,2024
+Type 1 Diabetes,Middle East,700,78,22,1.5,47,2024
+IBD (Crohn's/Colitis),North America,1800,91,9,2.0,52,2024
+IBD (Crohn's/Colitis),Europe,2500,92,8,1.8,51,2024
+IBD (Crohn's/Colitis),East Asia,900,85,15,3.0,50,2024
+IBD (Crohn's/Colitis),South Asia,600,72,28,5.5,50,2024
+IBD (Crohn's/Colitis),Latin America,500,79,21,4.0,51,2024
+IBD (Crohn's/Colitis),Africa,250,58,42,7.0,51,2024
+IBD (Crohn's/Colitis),Middle East,300,76,24,4.5,50,2024

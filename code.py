@@ -9,7 +9,6 @@ import matplotlib.pyplot as ply
 import matplotlib.patches as mpatches
 from matplotlib.gridspec import GridSpec
 
-
 df = pd.read_csv('autoimmune_global.csv')
 
 print("Dataset loaded:")
