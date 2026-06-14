@@ -74,7 +74,7 @@ fig.suptitle(
     fontsize=14, fontweight='bold', color='#e6edf3', y=0.99
 )
 
-# ── CHART 1 — Global Cases by Disease (Stacked by Saved/Lost) ──
+
 style(ax1, "Global Patient Burden — Estimated Cases (Thousands)")
 
 x      = np.arange(len(by_disease))
@@ -105,7 +105,6 @@ for bar, row in zip(bars_saved, by_disease.itertuples()):
              ha='center', va='bottom',
              color='#e6edf3', fontsize=7.5, fontweight='bold')
 
-# ── CHART 2 — Survival Rate Horizontal Bar ───────────────
 style(ax2, "Avg Survival Rate\nby Disease (%)")
 
 sorted_d = by_disease.sort_values('Avg_Survival')
