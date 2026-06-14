@@ -21,7 +21,6 @@ df['Saved_Thousands']    = (df['Estimated_Cases_Thousands'] *
 df['Lost_Thousands']     = (df['Estimated_Cases_Thousands'] *
                             df['Mortality_Rate_Pct'] / 100).round(1)
 
-# Summaries
 by_disease = df.groupby('Disease').agg(
     Total_Cases=('Estimated_Cases_Thousands', 'sum'),
     Avg_Survival=('Survival_Rate_Pct', 'mean'),
