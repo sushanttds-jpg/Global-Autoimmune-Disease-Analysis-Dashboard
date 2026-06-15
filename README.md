@@ -1,4 +1,4 @@
-##This project holds deep personal significance. It was built while someone close to me navigates Lupus (SLE) Stage III, and it reflects a genuine desire to understand and highlight global outcomes for people fighting autoimmune diseases.
+This project holds deep personal significance. It was built while someone close to me navigates Lupus (SLE) Stage III, and it reflects a genuine desire to understand and highlight global outcomes for people fighting autoimmune diseases.
 ---
 
 ## Key Findings
