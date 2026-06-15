@@ -1,9 +1,6 @@
-remind me tomorrow we have 14 green dots at github i had 6 today and for tomorrow imma add images output and read me: # Global Autoimmune Disease — Survival & Burden Analysis
-A data analysis and visualization project exploring survival rates, patient burden, and diagnosis delays across 5 major autoimmune diseases in 7 global regions. This dashboard is modeled on published estimates from the WHO, CDC, and the Global Burden of Disease Study.
-> **Personal Motivation** > This project holds deep personal significance. It was built while someone close to me navigates Lupus (SLE) Stage III, and it reflects a genuine desire to understand and highlight global outcomes for people fighting autoimmune diseases.
+**Personal Motivation** > This project holds deep personal significance. It was built while someone close to me navigates Lupus (SLE) Stage III, and it reflects a genuine desire to understand and highlight global outcomes for people fighting autoimmune diseases.
 ---
-## The Dashboard
-![Autoimmune Disease Analysis Dashboard](autoimmune_dashboard.png)
+
 ## Key Findings
 * **Global Survival:** 83.5% average survival rate across all analyzed conditions (~32.8 million people estimated to survive globally).
 * **The Regional Gap:** A stark contrast between Africa (60% average survival) and North America (92%).
